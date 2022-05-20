@@ -1,1 +1,11 @@
-
+<Bug report>
+   <ID number>123</ID number>
+  <Name>CART - Unable to add new item to my cart</Name>
+  <Reporter>K.Zhiznevskaya</Reporter>
+  <Summary>When my cart contains one item, I am unable to add a second item via the add to cart button on a product page</Summary>
+  <URL>www.example.com/product/abc</URL>
+  <Operating System>OS X 10.12.0</Operating System>
+  <Steps to reproduce>add one item to cart, go to product abc via the search bar, add new item to cart via add to cart button (see screenshot), go to cart</Steps to reproduce>
+  <Expected result>The cart should contain 2 items</Expected result>
+  <Actual result>The cart contains only 1 item</Actual result>
+</Bug report>
